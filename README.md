@@ -1,4 +1,3 @@
-Of course! Here is the README.md file, translated into English.
 
 🤖 Colombian Sign Language (LSC) Recognition with AI
 This project is a real-time prototype for recognizing static letters of the Colombian Sign Language (LSC) alphabet using a webcam.
